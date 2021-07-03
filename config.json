@@ -1,0 +1,11 @@
+{
+    "token": "your token here", 
+    "password": "your pass here",
+    "prefix": "|",
+    
+    "nitro_sniper": true, 
+    "giveaway_sniper": true,
+
+    "stream_url": "https://twitch.tv/",
+    "tts_language": "en"
+}
